@@ -3,7 +3,9 @@ let songlist =
     'Cruel Summer',
     'Barbie World',
     'Vampire',
-    'Seven'
+    'Seven',
+    'Super Shy',
+    'Shh'
   ];
 
 let index = 0;
